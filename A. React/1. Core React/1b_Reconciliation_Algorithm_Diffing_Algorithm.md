@@ -135,3 +135,7 @@ React **16+** uses the **Fiber Reconciliation Algorithm** for better performance
 - **Fiber enables better scheduling of updates**.
 
 ---
+
+# GREATEST TIPS
+
+`Always try to keep all the component and JSX elements unique to high performance of the application update and changes in it. JSX reconciliation work with unique identity of JSX object in Virtual DOM later as HTML element in Real DOM`
