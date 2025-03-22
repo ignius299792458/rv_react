@@ -112,7 +112,3 @@
 ✅ Mentor junior/mid-level developers  
 ✅ Build complex, high-quality, and reusable components  
 ✅ Have a deep understanding of browser internals, networking, and security
-
-Since you already have **strong backend expertise**, your React skills combined with that will make you an elite **full-stack engineer**. 🚀
-
-Which of these areas do you want to focus on next? 🔥
