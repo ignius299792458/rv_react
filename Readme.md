@@ -85,28 +85,3 @@
 ✔ **Webpack, Vite, Esbuild, Parcel**  
 ✔ **CI/CD Pipelines for Frontend (GitHub Actions, GitLab CI, CircleCI)**  
 ✔ **Docker for Frontend**
-
----
-
-# H. **Leadership & System Design**
-
-✔ **Mentoring Junior Developers**  
-✔ **Code Reviews & Best Practices**  
-✔ **Architecting Frontend Systems for Scale**
-
----
-
-# J. **Full-Stack & Backend Knowledge**
-
-✔ **Node.js (Express, NestJS) for Backend API**  
-✔ **Database Basics (SQL, NoSQL, Firebase, Prisma)**  
-✔ **Authentication (JWT, OAuth, SSO)**
-
----
-
-
-✅ Lead projects and architectural decisions  
-✅ Optimize for performance, scalability, and maintainability  
-✅ Mentor junior/mid-level developers  
-✅ Build complex, high-quality, and reusable components  
-✅ Have a deep understanding of browser internals, networking, and security
