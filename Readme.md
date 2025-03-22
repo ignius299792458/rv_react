@@ -1,13 +1,12 @@
-# **React**
+# A. **React**
 
-
-## 1. **Core React**
+### 1. **Core React**
 
 - JSX, Components (Class & Functional), Props, State
 - Lifecycle Methods (for Class Components)
 - Hooks (`useState`, `useEffect`, `useRef`, `useReducer`, etc.)
 
-## 2. **Advanced React**
+### 2. **Advanced React**
 
 - Context API & Compound Components
 - Custom Hooks (for reusability and separation of concerns)
@@ -15,31 +14,31 @@
 - Error Boundaries & Suspense
 - React Server Components (RSC)
 
-## 3. **State Management**
+### 3. **State Management**
 
 - React Context + `useReducer`
 - Redux Toolkit (RTK Query)
 - Zustand, Recoil, Jotai (modern alternatives)
 - Query Caching with React Query
 
-## 4. **React Router**
+### 4. **React Router**
 
 - Route Parameters, Nested Routes, Dynamic Routing
 - Lazy Loading & Code Splitting
 
-## 5. **Forms & Validation**
+### 5. **Forms & Validation**
 
 - Controlled vs. Uncontrolled Components
 - Formik, React Hook Form + Yup
 
-## 5. **React Testing**
+### 5. **React Testing**
 
 - Unit Testing (Jest, React Testing Library)
 - Integration & E2E Testing (Cypress, Playwright)
 
 ---
 
-### **2. Deep Frontend Architecture Knowledge**
+# B. **Deep Frontend Architecture Knowledge**
 
 ✔ **Component-Driven Architecture** (Atomic Design)  
 ✔ **Scalable Folder Structure** (Feature-based or Domain-based)  
@@ -48,7 +47,7 @@
 
 ---
 
-### **3. JavaScript & TypeScript Expertise**
+# C. **JavaScript & TypeScript Expertise**
 
 ✔ **ES6+ Features** (Destructuring, Spread, Rest, Promises, Async/Await)  
 ✔ **Functional Programming** (Pure Functions, Higher-Order Functions)  
@@ -56,7 +55,7 @@
 
 ---
 
-### **4. Performance Optimization**
+# D. **Performance Optimization**
 
 ✔ **Virtual DOM & Reconciliation**  
 ✔ **Memoization (`React.memo`, `useMemo`, `useCallback`)**  
@@ -66,7 +65,7 @@
 
 ---
 
-### **5. API Handling & Server Communication**
+# E. **API Handling & Server Communication**
 
 ✔ **REST APIs & GraphQL (Apollo, Relay)**  
 ✔ **WebSockets for Real-Time Apps**  
@@ -74,14 +73,14 @@
 
 ---
 
-### **6. UI Frameworks & CSS**
+# F. **UI Frameworks & CSS**
 
 ✔ **Tailwind CSS, CSS Modules, Styled Components**  
 ✔ **Component Libraries (Material UI, Chakra UI, Ant Design, ShadCN)**
 
 ---
 
-### **7. Build Tools & Deployment**
+# G. **Build Tools & Deployment**
 
 ✔ **Webpack, Vite, Esbuild, Parcel**  
 ✔ **CI/CD Pipelines for Frontend (GitHub Actions, GitLab CI, CircleCI)**  
@@ -89,7 +88,7 @@
 
 ---
 
-### **8. Leadership & System Design**
+# H. **Leadership & System Design**
 
 ✔ **Mentoring Junior Developers**  
 ✔ **Code Reviews & Best Practices**  
@@ -97,7 +96,7 @@
 
 ---
 
-### **9. Full-Stack & Backend Knowledge**
+# J. **Full-Stack & Backend Knowledge**
 
 ✔ **Node.js (Express, NestJS) for Backend API**  
 ✔ **Database Basics (SQL, NoSQL, Firebase, Prisma)**  
@@ -105,7 +104,6 @@
 
 ---
 
-## **How to Prove You’re at the Senior Level?**
 
 ✅ Lead projects and architectural decisions  
 ✅ Optimize for performance, scalability, and maintainability  
